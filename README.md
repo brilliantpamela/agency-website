@@ -1,2 +1,2 @@
 # agency-website
-Converting PSD to WordPress
+Converting HTML/CSS to WordPress
