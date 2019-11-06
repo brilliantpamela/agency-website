@@ -23,7 +23,7 @@
                     <!-- about image-->
                     <div class="col-xl-5 col-lg-5 col-md-5">
                         <div class="about-img">
-                            <img src="img/about.jpg" alt="">
+                            <img src="/img/about.jpg" alt="">
                         </div>
                     </div>
                     <!-- about content-->
@@ -70,28 +70,28 @@
                                 <!-- single-services-->
                                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 margin-boottom20 margin-top-small">
                                     <div class="single-services">
-                                        <img src="img/services/1.png" alt="">
+                                        <img src="/img/services/1.png" alt="">
                                         <h4>idea</h4>
                                     </div>
                                 </div>
                                 <!-- single-services-->
                                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 margin-boottom20">
                                     <div class="single-services">
-                                        <img src="img/services/2.png" alt="">
+                                        <img src="/img/services/2.png" alt="">
                                         <h4>seo</h4>
                                     </div>
                                 </div>
                                 <!-- single-services-->
                                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
                                     <div class="single-services">
-                                        <img src="img/services/3.png" alt="">
+                                        <img src="/img/services/3.png" alt="">
                                         <h4>marketing</h4>
                                     </div>
                                 </div>
                                 <!-- single-services-->
                                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 margin-top-small-s">
                                     <div class="single-services">
-                                        <img src="img/services/4.png" alt="">
+                                        <img src="/img/services/4.png" alt="">
                                         <h4>development</h4>
                                     </div>
                                 </div>
@@ -118,7 +118,7 @@
                 <div class="row pa-margintop">
                     <div class="col-xl-4 col-lg-4 col-md-4 margin-bottom-r">
                         <div class="projects-img">
-                            <img src="img/projects/pm.jpg" alt="">
+                            <img src="/img/projects/pm.jpg" alt="">
                         </div>
                     </div>
                     <!-- projects content-->
@@ -151,7 +151,7 @@
                         <!-- single-projects-->
                         <div class="col-xl-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="single-project">
-                                <img src="img/projects/2.jpg" alt="">
+                                <img src="/img/projects/2.jpg" alt="">
                                 <div class="portfolio-text">
                                     <h5>start your business</h5>
                                     <a href="single-project.html">details</a>
@@ -161,7 +161,7 @@
                         <!-- single-projects-->
                         <div class="col-xl-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="single-project">
-                                <img src="img/projects/3.jpg" alt="">
+                                <img src="/img/projects/3.jpg" alt="">
                                 <div class="portfolio-text">
                                     <h5>start your business</h5>
                                     <a href="single-project.html">details</a>
@@ -171,7 +171,7 @@
                         <!-- single-projects-->
                         <div class="col-xl-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="single-project">
-                                <img src="img/projects/1.jpg" alt="">
+                                <img src="/img/projects/1.jpg" alt="">
                                 <div class="portfolio-text">
                                     <h5>start your business</h5>
                                     <a href="single-project.html">details</a>
@@ -181,7 +181,7 @@
                         <!-- single-projects-->
                         <div class="col-xl-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="single-project">
-                                <img src="img/projects/2.jpg" alt="">
+                                <img src="/img/projects/2.jpg" alt="">
                                 <div class="portfolio-text">
                                     <h5>start your business</h5>
                                     <a href="single-project.html">details</a>
@@ -191,7 +191,7 @@
                         <!-- single-projects-->
                         <div class="col-xl-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="single-project">
-                                <img src="img/projects/3.jpg" alt="">
+                                <img src="/img/projects/3.jpg" alt="">
                                 <div class="portfolio-text">
                                     <h5>start your business</h5>
                                     <a href="single-project.html">details</a>
@@ -201,7 +201,7 @@
                         <!-- single-projects-->
                         <div class="col-xl-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="single-project">
-                                <img src="img/projects/1.jpg" alt="">
+                                <img src="/img/projects/1.jpg" alt="">
                                 <div class="portfolio-text">
                                     <h5>start your business</h5>
                                     <a href="single-project.html">details</a>
@@ -211,7 +211,7 @@
                         <!-- single-projects-->
                         <div class="col-xl-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="single-project">
-                                <img src="img/projects/2.jpg" alt="">
+                                <img src="/img/projects/2.jpg" alt="">
                                 <div class="portfolio-text">
                                     <h5>start your business</h5>
                                     <a href="single-project.html">details</a>
@@ -238,7 +238,7 @@
                         <!-- single-features-->
                         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 margin-boottom30 " data-aos="fade-up" data-aos-duration="1200" data-aos-easing="ease-in-sine" data-aos-anchor-placement="top-bottom">
                             <div class="single-features">
-                                <img src="img/features/1.png" alt="">
+                                <img src="/img/features/1.png" alt="">
                                 <h4>proper SEo</h4>
                                 <p>Lorem ipsum dolor mauris lectus,a ultricies nisi
                                     faucibus nec elementum quam. mauris lectus,
@@ -249,7 +249,7 @@
                         <!-- single-features-->
                         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 margin-boottom30" data-aos="fade-up" data-aos-duration="1200" data-aos-easing="ease-in-sine" data-aos-anchor-placement="top-bottom">
                             <div class="single-features">
-                                <img src="img/features/2.png" alt="">
+                                <img src="/img/features/2.png" alt="">
                                 <h4>User experience</h4>
                                 <p>Lorem ipsum dolor mauris lectus,a ultricies nisi
                                     faucibus nec elementum quam. mauris lectus,
@@ -260,7 +260,7 @@
                         <!-- single-features-->
                         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 margin-boottom30" data-aos="fade-up" data-aos-duration="1200" data-aos-easing="ease-in-sine" data-aos-anchor-placement="top-bottom">
                             <div class="single-features">
-                                <img src="img/features/3.png" alt="">
+                                <img src="/img/features/3.png" alt="">
                                 <h4>Responsive web</h4>
                                 <p>Lorem ipsum dolor mauris lectus,a ultricies nisi
                                     faucibus nec elementum quam. mauris lectus,
@@ -271,7 +271,7 @@
                         <!-- single-features-->
                         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6" data-aos="fade-up" data-aos-duration="1500" data-aos-easing="ease-in-sine" data-aos-anchor-placement="top-bottom">
                             <div class="single-features">
-                                <img src="img/features/4.png" alt="">
+                                <img src="/img/features/4.png" alt="">
                                 <h4>Marketing growth</h4>
                                 <p>Lorem ipsum dolor mauris lectus,a ultricies nisi
                                     faucibus nec elementum quam. mauris lectus,
@@ -282,7 +282,7 @@
                         <!-- single-features-->
                         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 margin-top-small" data-aos="fade-up" data-aos-duration="1500" data-aos-easing="ease-in-sine" data-aos-anchor-placement="top-bottom">
                             <div class="single-features">
-                                <img src="img/features/5.png" alt="">
+                                <img src="/img/features/5.png" alt="">
                                 <h4>User interface</h4>
                                 <p>Lorem ipsum dolor mauris lectus,a ultricies nisi
                                     faucibus nec elementum quam. mauris lectus,
@@ -293,7 +293,7 @@
                         <!-- single-features-->
                         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 margin-top-small" data-aos="fade-up" data-aos-duration="1500" data-aos-easing="ease-in-sine" data-aos-anchor-placement="top-bottom">
                             <div class="single-features">
-                                <img src="img/features/6.png" alt="">
+                                <img src="/img/features/6.png" alt="">
                                 <h4>Secure web</h4>
                                 <p>Lorem ipsum dolor mauris lectus,a ultricies nisi
                                     faucibus nec elementum quam. mauris lectus,
@@ -357,7 +357,7 @@
                         <!-- single-team-member-->
                         <div class="col-md-12">
                             <div class="our-team">
-                                <img src="img/team/5.jpg" alt="">
+                                <img src="/img/team/5.jpg" alt="">
                                 <ul class="social update-social-icon">
                                     <li><a href="#" class="fab fa-facebook"></a></li>
                                     <li><a href="#" class="fab fa-twitter"></a></li>
@@ -374,7 +374,7 @@
                         <!-- single-team-member-->
                         <div class="col-md-12">
                             <div class="our-team">
-                                <img src="img/team/4.jpg" alt="">
+                                <img src="/img/team/4.jpg" alt="">
                                 <ul class="social update-social-icon">
                                     <li><a href="#" class="fab fa-facebook"></a></li>
                                     <li><a href="#" class="fab fa-twitter"></a></li>
@@ -391,7 +391,7 @@
                         <!-- single-team-member-->
                         <div class="col-md-12">
                             <div class="our-team">
-                                <img src="img/team/3.jpg" alt="">
+                                <img src="/img/team/3.jpg" alt="">
                                 <ul class="social update-social-icon">
                                     <li><a href="#" class="fab fa-facebook"></a></li>
                                     <li><a href="#" class="fab fa-twitter"></a></li>
@@ -408,7 +408,7 @@
                         <!-- single-team-member-->
                         <div class="col-md-12">
                             <div class="our-team">
-                                <img src="img/team/2.jpg" alt="">
+                                <img src="/img/team/2.jpg" alt="">
                                 <ul class="social update-social-icon">
                                     <li><a href="#" class="fab fa-facebook"></a></li>
                                     <li><a href="#" class="fab fa-twitter"></a></li>
@@ -425,7 +425,7 @@
                         <!-- single-team-member-->
                         <div class="col-md-12">
                             <div class="our-team">
-                                <img src="img/team/1.jpg" alt="">
+                                <img src="/img/team/1.jpg" alt="">
                                 <ul class="social update-social-icon">
                                     <li><a href="#" class="fab fa-facebook"></a></li>
                                     <li><a href="#" class="fab fa-twitter"></a></li>
@@ -461,7 +461,7 @@
                         <div class="col-xl-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="single-testimonial">
                                 <div class="client-img">
-                                    <img src="img/clients/1.jpg" alt="">
+                                    <img src="/img/clients/1.jpg" alt="">
                                 </div>
                                 <div class="testimonial-content">
                                     <h5>john doe</h5>
@@ -474,7 +474,7 @@
                         <div class="col-xl-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="single-testimonial">
                                 <div class="client-img">
-                                    <img src="img/clients/2.jpg" alt="">
+                                    <img src="/img/clients/2.jpg" alt="">
                                 </div>
                                 <div class="testimonial-content">
                                     <h5>john doe</h5>
@@ -487,7 +487,7 @@
                         <div class="col-xl-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="single-testimonial">
                                 <div class="client-img">
-                                    <img src="img/clients/3.jpg" alt="">
+                                    <img src="/img/clients/3.jpg" alt="">
                                 </div>
                                 <div class="testimonial-content">
                                     <h5>john doe</h5>
@@ -500,7 +500,7 @@
                         <div class="col-xl-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="single-testimonial">
                                 <div class="client-img">
-                                    <img src="img/clients/1.jpg" alt="">
+                                    <img src="/img/clients/1.jpg" alt="">
                                 </div>
                                 <div class="testimonial-content">
                                     <h5>john doe</h5>
@@ -530,7 +530,7 @@
                         <div class="single-blog">
                             <!-- blog-image-->
                             <div class="blog-image">
-                                <img src="img/blog/1.jpg" alt="">
+                                <img src="/img/blog/1.jpg" alt="">
                                 <div class="blog-tag">
                                     <span>photography</span>
                                 </div>
@@ -553,7 +553,7 @@
                         <div class="single-blog">
                             <!-- blog-image-->
                             <div class="blog-image">
-                                <img src="img/blog/2.jpg" alt="">
+                                <img src="/img/blog/2.jpg" alt="">
                                 <div class="blog-tag">
                                     <span>Discovery</span>
                                 </div>
@@ -576,7 +576,7 @@
                         <div class="single-blog">
                             <!-- blog-image-->
                             <div class="blog-image">
-                                <img src="img/blog/3.jpg" alt="">
+                                <img src="/img/blog/3.jpg" alt="">
                                 <div class="blog-tag">
                                     <span>Lifestyle</span>
                                 </div>

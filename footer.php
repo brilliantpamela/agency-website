@@ -8,7 +8,7 @@
                         <div class="single-widget border-right">
                             <div class="company-logo">
                                 <a href="#">
-                                    <img src="img/logo.png" alt="logo">
+                                    <img src="/img/logo.png" alt="logo">
                                 </a>
                             </div>
                             <div class="about-company">
@@ -84,3 +84,5 @@
             </div>
         </div>
     </footer>
+
+    <?php wp_footer();?>

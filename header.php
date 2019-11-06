@@ -30,7 +30,7 @@
                     <div class="col-xl-2 col-lg-2 col-md-2">
                         <div class="logo-area">
                             <a href="index.html">
-                                <img src="img/logo.png" alt="logo">
+                                <img src="<?php bloginfo ('template_directory');?>/img/logo.png" alt="logo">
                             </a>
                         </div>
                     </div>
